@@ -2,13 +2,10 @@
 <img align="right" alt="Coding" width="400" src="https://gist.github.com/lqb2/48e43ee11e8f5b00542a/raw/75348d50e4a4516469287d0ca2e1a5a69cee07f6/forkit.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu295&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu295" /> </p>
-
+- 🌱 I’m currently learning **React Native**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu295" alt="priyanshu295" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **React Native**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyanshu-kumar-9a69a2257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu-kumar-9a69a2257" height="30" width="40" /></a>
